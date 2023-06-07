@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/itemCarritoCompras"
+        android:title="@string/carrito_compra"
+        app:showAsAction="always"
+        android:icon="@drawable/icon_car_shop"/>
+    <item
+        android:id="@+id/itemNosotros"
+        android:title="@string/nosotross" />
+    <item
+        android:id="@+id/itemCerrarSesion"
+        android:title="@string/cerrar_sesi_n" />
+</menu>
